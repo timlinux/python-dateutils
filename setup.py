@@ -21,7 +21,7 @@ setup(
         install_requires=[
             'argparse',
             'python-dateutil',
-            'pytz (>=2013b)'
+            'pytz>=2013b'
             ],
         entry_points={
             'console_scripts': [
